@@ -1,1 +1,1 @@
-# mod3_solution
+# coursera-module-3
